@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/gobject-2.0.tar.gz
+# Source0-md5:	b3b80eb00c7c290b5eeed75040462393
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
