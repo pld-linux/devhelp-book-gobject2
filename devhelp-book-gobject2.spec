@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gobject 2.0
-Summary(pl):	Ksi±¿ka do DevHelpa o gobject 2.0
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o gobject 2.0
 Name:		devhelp-book-gobject
 Version:	2.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about gobject 2.0.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o gobject 2.0.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o gobject 2.0.
 
 %prep
 %setup -q -c -n gobject-%{version}
