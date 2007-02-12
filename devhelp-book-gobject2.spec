@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gobject 2.0
-Summary(pl.UTF-8):   Książka do DevHelpa o gobject 2.0
+Summary(pl.UTF-8):	Książka do DevHelpa o gobject 2.0
 Name:		devhelp-book-gobject
 Version:	2.0
 Release:	1
